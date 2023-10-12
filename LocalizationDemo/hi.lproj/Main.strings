@@ -1,0 +1,18 @@
+
+/* Class = "UILabel"; text = "Contact: Rajgorjc@gmail.com"; ObjectID = "3Wv-Uq-m3i"; */
+"Contact" = "संपर्क करें:Rajgorjc@gmail.com";
+
+/* Class = "UILabel"; text = "Name: Chintan Jayesh Rajgor"; ObjectID = "8yf-gX-zwC"; */
+"Name" = "नाम: चिंतन जयेश राजगोर";
+
+/* Class = "UILabel"; text = "Profession: IOS Developer"; ObjectID = "XTs-xC-aID"; */
+"Proffesion" = "पेशा: आईओएस डेवलपर";
+
+/* Class = "UILabel"; text = "DOB: 30/10/2001"; ObjectID = "jMw-rP-9hT"; */
+"DOB" = "जन्मतिथि: 30/10/2001";
+
+/* Class = "UILabel"; text = "Blood Group: A+"; ObjectID = "lHr-gY-R65"; */
+"BloodGrp" = "ब्लड ग्रुप: A+";
+
+/* Class = "UILabel"; text = "Degree: B.E. in Computer Science"; ObjectID = "ldp-JS-hC0"; */
+"Degree" = "डिग्री: बी.ई. कंप्यूटर विज्ञान में";
